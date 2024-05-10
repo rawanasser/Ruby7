@@ -1,0 +1,175 @@
+body{
+    background-color: #FFF2F2(26, 20, 20);
+}
+
+
+.intro{
+    background-image: url(تنزيل.jpg);
+    height: 50vh;
+    width: 100vw;
+    background-size: cover;
+    background-position:  center;
+    box-shadow: 0px 4px 8px rgb(25, 3, 34);
+
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: rgb(16, 1, 22);
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    transform: translate(-20%, -60%);
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+    color: rgb(25, 3, 34);
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    transform: translate(-20%, -60%);
+}
+
+.toto{
+   height: 30vh;
+   width: 30vh;
+   border-radius: 50%;
+   position: absolute;
+   top: 80%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   background-size: cover;
+   background-position: center;
+   box-shadow: 0px 4px 8px rgb(25, 3, 34);
+
+}
+ 
+.lol{
+    text-transform: uppercase;
+    font-size: 1rem;
+    color: rgb(60, 18, 75);
+    position: absolute;
+    top: 80%;
+    left: 70%;
+    transform: translate(-20%, -60%);
+    background-color:#7286D3 ;
+    border-radius: 20%;
+    display: flow-root;
+    padding: 10px;
+    box-shadow: 0px 4px 8px rgb(25, 3, 34);
+
+    
+}
+ 
+.jij{
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    color: rgb(82, 32, 99);
+    position: absolute;
+    top: 126%;
+    left: 10%;
+    transform: translate(-20%, -60%);
+    background-color: #7286D3;
+    height: 130px;
+    border-radius: 20%;
+    display: flow-root;
+    padding: 10px;
+    box-shadow: 0px 4px 8px rgb(25, 3, 34);
+}
+
+.lil{
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    color: rgb(82, 32, 99);
+    position: absolute;
+    top: 126%;
+    left: 50%;
+    transform: translate(-20%, -60%);
+    background-color: #7286D3;
+    height: 130px;
+    border-radius: 20%;
+    display: flow-root;
+    padding: 10px;
+    box-shadow: 0px 4px 8px rgb(25, 3, 34);
+}
+
+.rir{
+    text-transform: uppercase;
+    font-size: 1rem;
+    color:rgb(82, 32, 99);
+    position: absolute;
+    top: 126%;
+    left: 85%;
+    transform: translate(-20%, -60%);
+    background-color: #7286D3;
+    height: 130px;
+    width: 140px;
+    border-radius: 10%;
+    display: flow-root;
+    padding: 10px;
+    box-shadow: 0px 4px 8px rgb(25, 3, 34);
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: center; /* توسيط العناصر على المحور الأفقي */
+    align-items: center; /* توسيط العناصر على المحور الرأسي */
+    height: 10vh; /* تعيين ارتفاع العنصر إلى ارتفاع النافذة بالكامل */
+  }
+  
+  .beautiful-button {
+    background-color: #AC87C5; /* لون الخلفية */
+    color: white; /* لون النص */
+    padding: 8px 16px; /* البادينج */
+    font-size: 14px; /* حجم الخط */
+    border: none; /* إزالة الحدود */
+    border-radius: 4px; /* تدوير حواف الزر */
+    cursor: pointer; /* تغيير شكل المؤشر عند التحويم */
+    box-shadow: 0px 4px 8px rgb(25, 3, 34);
+  }
+  
+  .beautiful-button:hover {
+    background-color: #756AB6; /* تغيير لون الخلفية عند التحويم */
+  }
+  
+  .beautiful-button2 {
+   background-color: #AC87C5; 
+   color: white;
+   padding: 8px 16px;
+   font-size: 14px;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   display: flex;
+   box-shadow: 0px 4px 8px rgb(25, 3, 34);
+
+  
+  }
+
+  .beautiful-button2:hover{
+    background-color:  #756AB6;
+  }
+
+  .beautiful-button3 {
+    background-color: #AC87C5; 
+   color: white;
+   padding: 8px 16px;
+   font-size: 14px;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   display: flex;
+   box-shadow: 0px 4px 8px rgb(25, 3, 34);
+
+  
+  }
+
+  .beautiful-button3:hover{
+    background-color:  #756AB6;
+  }
